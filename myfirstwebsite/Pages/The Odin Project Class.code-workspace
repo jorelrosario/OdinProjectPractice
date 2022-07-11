@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "repos",
+			"path": "../../../repos"
+		},
+		{
+			"name": "html-boilerplate",
+			"path": "../../html-boilerplate"
+		},
+		{
+			"name": "odin-links-and-images",
+			"path": ".."
+		},
+		{
+			"name": "MyFirstWebsite",
+			"path": "../../MyFirstWebsite"
+		}
+	],
+	"settings": {}
+}
